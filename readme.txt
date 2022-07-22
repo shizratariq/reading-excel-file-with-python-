@@ -1,0 +1,3 @@
+-download pycharm and python 
+-add pip to the path
+-install openpyxl library
